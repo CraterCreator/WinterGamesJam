@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 6b22fdf0c2cadef4cb886cdfb9cc2bbd
+timeCreated: 1496456435
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: elbow_jnt
+    100002: hand
+    100004: //RootNode
+    100006: middle_1_jnt
+    100008: middle_2_jnt
+    100010: middle_3_jnt
+    100012: middle_END_jnt
+    100014: palm_jnt
+    100016: pinky_1_jnt
+    100018: pinky_2_jnt
+    100020: pinky_3_jnt
+    100022: pinky_END_jnt
+    100024: point_1_jnt
+    100026: point_2_jnt
+    100028: point_3_jnt
+    100030: point_END_jnt
+    100032: ring_1_jnt
+    100034: ring_2_jnt
+    100036: ring_3_jnt
+    100038: ring_END_jnt
+    100040: shoulder_grp
+    100042: shoulder_jnt
+    100044: thumb_0_jnt
+    100046: thumb_1_jnt
+    100048: thumb_2_jnt
+    100050: thumb_END_jnt
+    100052: wrist_grp
+    100054: wrist_jnt
+    400000: elbow_jnt
+    400002: hand
+    400004: //RootNode
+    400006: middle_1_jnt
+    400008: middle_2_jnt
+    400010: middle_3_jnt
+    400012: middle_END_jnt
+    400014: palm_jnt
+    400016: pinky_1_jnt
+    400018: pinky_2_jnt
+    400020: pinky_3_jnt
+    400022: pinky_END_jnt
+    400024: point_1_jnt
+    400026: point_2_jnt
+    400028: point_3_jnt
+    400030: point_END_jnt
+    400032: ring_1_jnt
+    400034: ring_2_jnt
+    400036: ring_3_jnt
+    400038: ring_END_jnt
+    400040: shoulder_grp
+    400042: shoulder_jnt
+    400044: thumb_0_jnt
+    400046: thumb_1_jnt
+    400048: thumb_2_jnt
+    400050: thumb_END_jnt
+    400052: wrist_grp
+    400054: wrist_jnt
+    4300000: hand
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: hand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
